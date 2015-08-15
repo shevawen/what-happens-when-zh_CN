@@ -420,3 +420,4 @@ Window Server
 .. _`网络节点`: https://en.wikipedia.org/wiki/Computer_network#Network_nodes
 .. _`不同的操作系统有所不同` : https://en.wikipedia.org/wiki/Hosts_%28file%29#Location_in_the_file_system
 .. _`downgrade attack`: http://en.wikipedia.org/wiki/SSL_stripping
+.. _`URL的井号`: http://www.ruanyifeng.com/blog/2011/03/url_hash.html
